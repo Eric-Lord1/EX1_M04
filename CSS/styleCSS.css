@@ -6,5 +6,6 @@ h1{
 table, th, td{
     
     border-color: black;
-    border: 10px solid;
+    border: 1px solid;
+    border-collapse: collapse;
 }
