@@ -13,6 +13,6 @@ table, th, td{
 caption{
     color: violet;
 }
-th{
+th, td{
     width: 150px;
 }
