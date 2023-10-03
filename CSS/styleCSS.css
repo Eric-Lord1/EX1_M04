@@ -1,9 +1,10 @@
 h1{
-    color: aquamarine;
+    color: rgb(33, 165, 121);
     font-weight: bold;
     text-align: center;
 }
-table{
+table, th, td{
+    
     border-color: black;
-    border: 10px;
+    border: 10px solid;
 }
