@@ -10,3 +10,6 @@ table, th, td{
     border: 1px solid;
     border-collapse: collapse;
 }
+caption{
+    color: violet;
+}
