@@ -12,13 +12,11 @@ table, th, td{
 }
 caption{
     color: violet;
+    padding-bottom: 20px;
 }
-<<<<<<< HEAD
-thead{
-    background-color: aquamarine;
-}
-=======
 th, td{
     width: 150px;
 }
->>>>>>> 6db7f6a3b71f9ffb628e0e3615e16ff8ff9a991f
+thead{
+    background-color: aquamarine;
+}
