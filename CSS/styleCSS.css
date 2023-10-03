@@ -11,8 +11,9 @@ table, th, td{
     border-collapse: collapse;
 }
 caption{
-    color: violet;
+    color: rgb(179, 39, 179);
     padding-bottom: 20px;
+    font-size: 30px
 }
 thead{
     background-color: aquamarine;
