@@ -3,3 +3,7 @@ h1{
     font-weight: bold;
     text-align: center;
 }
+table{
+    border-color: black;
+    border: 10px;
+}
