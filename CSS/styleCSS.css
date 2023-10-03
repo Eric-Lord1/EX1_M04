@@ -12,6 +12,7 @@ table, th, td{
 }
 caption{
     color: violet;
+    padding-bottom: 20px;
 }
 thead{
     background-color: aquamarine;
