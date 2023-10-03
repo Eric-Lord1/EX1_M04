@@ -13,3 +13,6 @@ table, th, td{
 caption{
     color: violet;
 }
+thead{
+    background-color: aquamarine;
+}
