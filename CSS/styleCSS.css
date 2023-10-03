@@ -14,9 +14,10 @@ caption{
     color: violet;
     padding-bottom: 20px;
 }
-th, td{
-    width: 150px;
-}
 thead{
     background-color: aquamarine;
+}
+th, td{
+    width: 150px;
+    text-align: center;
 }
