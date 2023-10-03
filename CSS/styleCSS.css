@@ -4,8 +4,8 @@ h1{
     text-align: center;
 }
 table, th, td{
-    margin-left: auto;
     margin-right: auto;
+    margin-left: auto;
     border-color: black;
     border: 1px solid;
     border-collapse: collapse;
